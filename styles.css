@@ -1,12 +1,22 @@
 
 body{
     background-color: blue;
+    color:white;
 }
 .tablerules{
 
 }
+.abel{
+    color: white;
+    font-size: 11px;
+    height: 10px;
 
-
+}
+/*#be{
+    font-size: 18px;
+    color: white;
+    background-color: black;
+}*/
 .columns{
   
     width: 170px;

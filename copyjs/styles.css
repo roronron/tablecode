@@ -1,6 +1,7 @@
 
 body{
     background-color: blue;
+    margin: 0px;
 }
 .tablerules{
 
@@ -8,7 +9,7 @@ body{
 
 
 .columns{
-  
+     margin: 0px;
     width: 170px;
     border: 1px solid black;
     background-color: palevioletred;
